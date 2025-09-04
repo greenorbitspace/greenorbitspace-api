@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "greenorbitspace-api",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "greenorbitspace-api",
+      "database_id": "59e29f1b-e007-4517-ada5-230e462abdbf"
+    }
+  ]
+}
